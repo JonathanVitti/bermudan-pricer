@@ -1,0 +1,8 @@
+QuantLib>=1.30
+numpy
+scipy
+PyYAML
+openpyxl
+flask
+# Optionnel (nécessite Bloomberg Terminal) :
+# blpapi
